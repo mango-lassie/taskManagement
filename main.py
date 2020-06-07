@@ -1,18 +1,17 @@
-import mechanize
 from bs4 import BeautifulSoup
-import urllib.request
-import http.cookiejar
 from selenium import webdriver
-from selenium.webdriver.support.select import Select
-from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
+import pyautogui as pg
+import time
+from tkinter import Tk
 
 #todo:fix verification on this method
 #todo: may have to change to googel chrome browser
+#todo: fix timeing on the whole application(try to reduce time)
 def wait5sec(driver):
     try:
         element_present = EC.presence_of_element_located((By.ID, 'element_id'))
@@ -20,11 +19,27 @@ def wait5sec(driver):
     except TimeoutException:
         print("Timed out waiting for page to load")
 
+def bluestacks():
+    #close any bluestacks process
+    #open /click duo
+    #close bluestacks
+    pg.hotkey('winleft')
+    time.sleep(3)
+    pg.typewrite('duo\n', .5)
+    time.sleep(40)
+    pg.typewrite('b',.5)
+    time.sleep(1)
+
+
+
+
 
 def login():
     #create browser instance
     driver = webdriver.Firefox()
-
+    pg.hotkey('winleft')
+    time.sleep(3)
+    pg.typewrite('duo\n', .5)
     #navigate to wolfware home page
     driver.get("https://wolfware.ncsu.edu/")
 
@@ -41,7 +56,6 @@ def login():
     elem2.send_keys("uvZx4e@27vKy")
     driver.find_element_by_id("formSubmit").click()
     wait5sec(driver)
-
     #now on duo authentication page
     iframe = driver.find_element_by_id("duo_iframe")
 
@@ -55,10 +69,15 @@ def login():
     #click on duo push button(can change later)
     z = driver.find_elements_by_tag_name('button')
     current_url = driver.current_url
+    time.sleep(25)
     z[2].click()
+    time.sleep(5)
+    pg.hotkey('ctrl','alt','2')
+    time.sleep(20)
+    #bluestacks()
 
     #section to authenticate manually
-    ##todo: add code to open up bluestacks and auto click allow for duo transmission
+    #todo: add code to open up bluestacks and auto click allow for duo transmission
     WebDriverWait(driver, 15).until(EC.url_changes(current_url))
     driver.refresh()
     #--------------------------------
@@ -79,15 +98,18 @@ def login():
 
     #at grades page
     elems = driver.find_elements_by_xpath("//td/a")
+
     #todo: iterate through the for loop for each
+    current_url = elems[0].get_attribute("href")
 
 
-
+    #todo: close bluestacks application
     #close the browser
     driver.close()
 
 
 if __name__ == "__main__":
+    #bluestacks()
     login()
 
 
