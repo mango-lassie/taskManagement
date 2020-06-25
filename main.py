@@ -81,7 +81,7 @@ def read(pagesource, textTitle):
     # inserts column into row
     rows.insert(0, column)
     # writes out the rows to csv
-    with open(textTitle +".csv", "w", newline="") as f:
+    with open("grades/" +textTitle +".csv", "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerows(rows)
 
@@ -149,23 +149,23 @@ def login():
     driver.find_element_by_link_text('Grades').click()
 
     # at grades page
-    #soup = BeautifulSoup(driver.page_source, 'html.parser')
-    #tbody = soup.find('tbody')
-    #elemst = {}
-    #for a in tbody.find_all('a', href = True):
-    #    elemst[a.get_text()] = a['href']
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    tbody = soup.find('tbody')
+    elemst = {}
+    for a in tbody.find_all('a', href = True):
+        elemst[a.get_text()] = a['href']
 
 
 
-    elems = driver.find_elements_by_xpath("//td/a")
+    #elems = driver.find_elements_by_xpath("//td/a")
 
     #todo: iterate through the for loop for each
     count = 0
-    for elem in elems:
-        current_url = elem.get_attribute("href")
-        count = count +1
-        textTitle = "grades" + str(count)
-        driver.get(current_url)
+    for title, link in elemst.items():
+        textTitle = title[:7]
+        textTitle = textTitle.strip()
+        textTitle = textTitle.replace(" ", "_")
+        driver.get(link)
         pagesource = driver.page_source
         read(pagesource, textTitle)
 

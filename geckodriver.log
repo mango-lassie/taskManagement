@@ -1141,3 +1141,39 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1593095838755	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593097043033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilepSHbT7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097046443	Marionette	INFO	Listening on port 57375
+1593097046653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097246632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilemrCN0W"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097251090	Marionette	INFO	Listening on port 59030
+1593097251477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097338351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilejI524x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097341693	Marionette	INFO	Listening on port 59160
+1593097341965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097516439	Marionette	INFO	Stopped listening on port 59160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593097705715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile71k9Yf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097708558	Marionette	INFO	Listening on port 59328
+1593097708829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097798711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilezPvhzW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097801860	Marionette	INFO	Listening on port 59467
+1593097802331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097849448	Marionette	INFO	Stopped listening on port 59467
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
