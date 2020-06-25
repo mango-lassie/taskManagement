@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -7,7 +7,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 import pyautogui as pg
 import time
+import subprocess
 from tkinter import Tk
+import csv
 
 #todo:fix verification on this method
 #todo: may have to change to googel chrome browser
@@ -20,26 +22,76 @@ def wait5sec(driver):
         print("Timed out waiting for page to load")
 
 def bluestacks():
-    #close any bluestacks process
-    #open /click duo
-    #close bluestacks
-    pg.hotkey('winleft')
-    time.sleep(3)
-    pg.typewrite('duo\n', .5)
-    time.sleep(40)
-    pg.typewrite('b',.5)
-    time.sleep(1)
+    #opens and run duo veriification
+    #subprocess.Popen('"C:\Program Files\BlueStacks\HD-RunApp.exe" -json "{\"app_icon_url\":\"\",\"app_name\":\"Duo Mobile\",\"app_url\":\"\",\"app_pkg\":\"com.duosecurity.duomobile\"}"')
+    player = subprocess.Popen('C:\ProgramData\BlueStacks\Client\Bluestacks.exe')
+    #macro in bluestacks runs
+    time.sleep(60)
+    #player.terminate()
 
+def read(pagesource, textTitle):
+    #used for scraping in text file.
+    #with open("scraped.txt") as fp:
+     #   soup = BeautifulSoup(fp, "html5lib")
+    #go to page
 
+    soup = BeautifulSoup(pagesource, 'html.parser')
 
+    table = soup.find("table")
+
+    # table header(collumn values)
+    column = []
+    for thead in table.find_all('thead'):
+        theadText = thead.get_text("/", strip=True)
+        column = theadText.split('/')
+    column.append("Category")
+    rows = []
+    category = "-"
+    # todo: project not showing due to no feedback/ coursetotal format messed up due to first column string being split in two rows.
+    # todo: add extension for multiple categories
+    # get the table body
+    for tbody in table.find_all('tbody'):
+        # get the table row
+        for tr in tbody.find_all('tr'):
+            # trText = tr.get_text("/", strip = True)
+            # row = trText.split('/')
+            row = []
+            for child in tr.children:
+                if isinstance(child, NavigableString):
+                    continue
+                if isinstance(child, Tag):
+                    if child.get_text() == '':
+                        row.append("-")
+                    else:
+                        row.append(child.get_text())
+
+            # if row has values for each column
+            if len(row) == (len(column) - 1):
+                row.append(category)
+                rows.append(row)
+            # if row doesn't have values for each column
+            else:
+                # if row is not a category
+                if not tr.find("i"):
+                    print("droped")
+                # if the row specifies the category
+                else:
+                    if tr.find("i")["aria-label"] == "Category":
+                        category = row[1]
+    # inserts column into row
+    rows.insert(0, column)
+    # writes out the rows to csv
+    with open(textTitle +".csv", "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerows(rows)
 
 
 def login():
     #create browser instance
     driver = webdriver.Firefox()
-    pg.hotkey('winleft')
+    ##pg.hotkey('winleft')
     time.sleep(3)
-    pg.typewrite('duo\n', .5)
+    ##pg.typewrite('duo\n', .5)
     #navigate to wolfware home page
     driver.get("https://wolfware.ncsu.edu/")
 
@@ -69,15 +121,15 @@ def login():
     #click on duo push button(can change later)
     z = driver.find_elements_by_tag_name('button')
     current_url = driver.current_url
-    time.sleep(25)
+    #time.sleep(25)
     z[2].click()
-    time.sleep(5)
-    pg.hotkey('ctrl','alt','2')
-    time.sleep(20)
+    #time.sleep(5)
+    #pg.hotkey('ctrl','alt','2')
+    #time.sleep(5)
+    #pg.hotkey('alt','f4')
+    #time.sleep(20)
     #bluestacks()
-
-    #section to authenticate manually
-    #todo: add code to open up bluestacks and auto click allow for duo transmission
+    time.sleep(10)
     WebDriverWait(driver, 15).until(EC.url_changes(current_url))
     driver.refresh()
     #--------------------------------
@@ -96,20 +148,33 @@ def login():
     driver.find_element_by_id("action-menu-toggle-1").click()
     driver.find_element_by_link_text('Grades').click()
 
-    #at grades page
+    # at grades page
+    #soup = BeautifulSoup(driver.page_source, 'html.parser')
+    #tbody = soup.find('tbody')
+    #elemst = {}
+    #for a in tbody.find_all('a', href = True):
+    #    elemst[a.get_text()] = a['href']
+
+
+
     elems = driver.find_elements_by_xpath("//td/a")
 
     #todo: iterate through the for loop for each
-    current_url = elems[0].get_attribute("href")
+    count = 0
+    for elem in elems:
+        current_url = elem.get_attribute("href")
+        count = count +1
+        textTitle = "grades" + str(count)
+        driver.get(current_url)
+        pagesource = driver.page_source
+        read(pagesource, textTitle)
 
 
-    #todo: close bluestacks application
     #close the browser
     driver.close()
 
 
 if __name__ == "__main__":
-    #bluestacks()
     login()
 
 
