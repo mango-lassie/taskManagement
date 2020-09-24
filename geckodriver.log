@@ -1,0 +1,1179 @@
+1591454289057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileWysje8"
+1591454329084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileOZCPa3"
+1591454329524	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591454330002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591454330002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591454330002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591454330003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591454332378	Marionette	INFO	Listening on port 51844
+1591454332699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591454377518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile1QDWhO"
+1591454377929	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591454378386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591454378386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591454378387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591454378387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591454380800	Marionette	INFO	Listening on port 51729
+1591454381148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591454443968	Marionette	INFO	Stopped listening on port 51729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591457677258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileLR6nUS"
+1591457708340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileJDSiHc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591457711814	Marionette	INFO	Listening on port 54794
+1591457711997	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591457838598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile0TIedY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591457842693	Marionette	INFO	Listening on port 54937
+1591457842826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591458282899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile3RYxGq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591458285715	Marionette	INFO	Listening on port 55341
+1591458286022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591458356127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileTDxTQx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591458358850	Marionette	INFO	Listening on port 55466
+1591458359247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591458484335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilev2qsjl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591458487329	Marionette	INFO	Listening on port 55653
+1591458487447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591458625478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile2ZS8cH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591458628375	Marionette	INFO	Listening on port 55813
+1591458628590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591458655929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileHrqLxL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591458659018	Marionette	INFO	Listening on port 55897
+1591458659072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591458807337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile44ywzY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591458811714	Marionette	INFO	Listening on port 56061
+1591458812078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591459585177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileamj8FE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591459588018	Marionette	INFO	Listening on port 50310
+1591459588290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591459799342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileiSx5yo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591459802293	Marionette	INFO	Listening on port 50526
+1591459802459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591459893384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileiSWM25"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591459896177	Marionette	INFO	Listening on port 52094
+1591459896505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591460023272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileUWLa3l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591460026470	Marionette	INFO	Listening on port 52257
+1591460026906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591460296175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileNTN0Gq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591460299068	Marionette	INFO	Listening on port 52516
+1591460299294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591460487693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile2Sgco9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591460490664	Marionette	INFO	Listening on port 55351
+1591460490817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591460637398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileYaUNge"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591460640256	Marionette	INFO	Listening on port 64664
+1591460640509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591461149124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileQ0EF4c"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591461153176	Marionette	INFO	Listening on port 64721
+1591461153272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591461239012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilefwvlw3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591461242598	Marionette	INFO	Listening on port 64862
+1591461242684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591461422538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilepJjKDN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591461426056	Marionette	INFO	Listening on port 65038
+1591461426166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591461521688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileeT92nD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591461525430	Marionette	INFO	Listening on port 54741
+1591461525878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591461579884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileAt9WHU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591461582924	Marionette	INFO	Listening on port 54858
+1591461583010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591461654354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilejTQ8nO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591461657237	Marionette	INFO	Listening on port 54981
+1591461657468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591462083130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileySrMvY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591462085795	Marionette	INFO	Listening on port 53075
+1591462086242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591462577990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileSEfCln"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591462580907	Marionette	INFO	Listening on port 56158
+1591462581109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591462852621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileba0Z74"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591462855462	Marionette	INFO	Listening on port 52281
+1591462855736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591463082886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilek9qhq6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591463088582	Marionette	INFO	Listening on port 59871
+1591463088960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591463163339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileBKvVHL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591463166528	Marionette	INFO	Listening on port 59967
+1591463167013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591463795772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilej8lJon"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591463798736	Marionette	INFO	Listening on port 63526
+1591463798889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591479039837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileoXIMBu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591479042897	Marionette	INFO	Listening on port 57269
+1591479042977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591479608074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileDcwnGX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591479610856	Marionette	INFO	Listening on port 52993
+1591479611190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591479724881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile1QQyTI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591479728075	Marionette	INFO	Listening on port 56673
+1591479728507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591480360718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile8f82Ed"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591480363338	Marionette	INFO	Listening on port 56823
+1591480363837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591480415101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileKo8EII"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591480418168	Marionette	INFO	Listening on port 51272
+1591480418248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591480594469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileEMxTKE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591480597722	Marionette	INFO	Listening on port 51364
+1591480598097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591480749082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofiledmq2ED"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591480753076	Marionette	INFO	Listening on port 51465
+1591480753339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+1591480844380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile37aTiC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591480847466	Marionette	INFO	Listening on port 51565
+1591480847574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591480889564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofiletzSHo2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591480892992	Marionette	INFO	Listening on port 51638
+1591480893184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+1591481420599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileQFyTrc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591481423370	Marionette	INFO	Listening on port 52466
+1591481423712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+1591481838220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileKbtRRl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591481841091	Marionette	INFO	Listening on port 50607
+1591481841347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591482264332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile2JqqyU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591482268618	Marionette	INFO	Listening on port 56402
+1591482268652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591482316055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilevGp4x5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591482319260	Marionette	INFO	Listening on port 56497
+1591482319854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591482572483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilewTFMBG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591482575427	Marionette	INFO	Listening on port 64188
+1591482575598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591482874653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilexgjXaP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591482878130	Marionette	INFO	Listening on port 64337
+1591482878285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591483012493	Marionette	INFO	Stopped listening on port 64337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591483022431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileFZbzCV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591483027592	Marionette	INFO	Listening on port 64482
+1591483027965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591483058557	Marionette	INFO	Stopped listening on port 64482
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591483191547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile5ZiZaf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591483194606	Marionette	INFO	Listening on port 64597
+1591483194659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591483331146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilevNLfvR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591483335002	Marionette	INFO	Listening on port 64770
+1591483335266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591483410643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileSh26gP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591483415800	Marionette	INFO	Listening on port 64906
+1591483416104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591484730101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilemM7LkJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591484735299	Marionette	INFO	Listening on port 50378
+1591484735443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2049: TypeError: event.target.closest is not a function
+1591486058565	Marionette	INFO	Stopped listening on port 50378
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591486730573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilenccDIw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591486733373	Marionette	INFO	Listening on port 55754
+1591486733689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591487335146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilekH6vzF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591487337769	Marionette	INFO	Listening on port 55978
+1591487338271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591487381856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileZZMAdQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591487384673	Marionette	INFO	Listening on port 56068
+1591487384994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591487449493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileQDKaJw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591487452331	Marionette	INFO	Listening on port 56157
+1591487452615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 81ms)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17496,54)
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591488358115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileb1w1bn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591488361187	Marionette	INFO	Listening on port 56503
+1591488361256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591488434977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileZvIGQ0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591488437682	Marionette	INFO	Listening on port 56610
+1591488438090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdn.ncsu.edu/brand-assets/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591488536267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileGE2cfj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591488539094	Marionette	INFO	Listening on port 56707
+1591488539390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591488589050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileKHaw2B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591488591727	Marionette	INFO	Listening on port 56818
+1591488592167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591488988447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileQAzeO7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591488991436	Marionette	INFO	Listening on port 56976
+1591488991563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591489049143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileZVN071"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591489052332	Marionette	INFO	Listening on port 57048
+1591489052765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591489074342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilewKrBu8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591489077505	Marionette	INFO	Listening on port 57121
+1591489077958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591489172870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileAB3lFE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591489175635	Marionette	INFO	Listening on port 57199
+1591489175985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591489275022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilesMNbz6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591489277967	Marionette	INFO	Listening on port 57341
+1591489278137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591489419246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileivANhX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591489422053	Marionette	INFO	Listening on port 57483
+1591489422359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591489614335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofiledqCp4p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591489617497	Marionette	INFO	Listening on port 57643
+1591489617948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591489871396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile57mHvy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591489874237	Marionette	INFO	Listening on port 60274
+1591489874508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error writing response to: querySelector"
+console.error: "Error while calling actor 'domwalker's method 'querySelector'" "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"
+console.error: "getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22\ngetListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28\nhasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17\nhasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21\nget _hasEventListeners@resource://devtools/server/actors/inspector/node.js:459:33\nform@resource://devtools/server/actors/inspector/node.js:262:7\nwrite@resource://devtools/shared/protocol/types.js:363:32\ntypes.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33\nwrite@resource://devtools/shared/protocol/types.js:220:16\nwrite@resource://devtools/shared/protocol/types.js:268:39\nwrite@resource://devtools/shared/protocol/Response.js:102:22\nwrite@resource://devtools/shared/protocol/Response.js:47:28\nsendReturn@resource://devtools/shared/protocol/Actor.js:164:38\n"
+console.error: (new Error("Protocol error (unknownError): Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor] from: server0.conn0.child2/domwalker23", "resource://devtools/shared/protocol/Front.js", 319))
+console.warn: ({})
+1591489974688	Marionette	INFO	Stopped listening on port 60274
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591489991609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilefuCSoC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591489994435	Marionette	INFO	Listening on port 60442
+1591489994727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591490132155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile5MhsqX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591490135270	Marionette	INFO	Listening on port 60580
+1591490135302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591490291002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileQX2j8F"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591490294109	Marionette	INFO	Listening on port 60732
+1591490294124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591492033799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileG6XlA0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591492037018	Marionette	INFO	Listening on port 59503
+1591492037413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591542919264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile6Ot0Iz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591542922570	Marionette	INFO	Listening on port 58850
+1591542922926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591542997658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilejz0fgd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591543000762	Marionette	INFO	Listening on port 58973
+1591543000807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591543632529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile3nYyDG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591543636644	Marionette	INFO	Listening on port 57543
+1591543636746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591543730764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile8p1lX6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591543734068	Marionette	INFO	Listening on port 57665
+1591543734402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591543780582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile91wHZr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591543783698	Marionette	INFO	Listening on port 57764
+1591543784368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591543855978	Marionette	INFO	Stopped listening on port 57764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591545299491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileBw1c19"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591545302417	Marionette	INFO	Listening on port 56143
+1591545302629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591545457755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileA9RZAv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591545460378	Marionette	INFO	Listening on port 56381
+1591545460868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591545528323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilePZmsGs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591545531054	Marionette	INFO	Listening on port 56555
+1591545531441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591556359114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile00ou8w"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591556362389	Marionette	INFO	Listening on port 61198
+1591556362732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591556614171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilew1hYXy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591556616800	Marionette	INFO	Listening on port 61472
+1591556617289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591556696957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileYrt7LY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591556699571	Marionette	INFO	Listening on port 61600
+1591556699595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591556886960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileKrZIJl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591556891197	Marionette	INFO	Listening on port 61772
+1591556891678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591557154629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileET9E8W"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591557157479	Marionette	INFO	Listening on port 51624
+1591557157746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3074:30
+
+1591557213116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile34Vaza"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591557215881	Marionette	INFO	Listening on port 51728
+1591557216240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591557339656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile71hFgN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591557342626	Marionette	INFO	Listening on port 52056
+1591557342767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-367267e6.duosecurity.com"
+1591557453606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile0odSMl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591557456292	Marionette	INFO	Listening on port 52326
+1591557456718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591557573852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileS6zeqi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591557576365	Marionette	INFO	Listening on port 52498
+1591557576465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591557764543	Marionette	INFO	Stopped listening on port 52498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591557804475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilekGLQZH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591557807656	Marionette	INFO	Listening on port 52868
+1591557808089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591558084690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileV9mOlv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591558087240	Marionette	INFO	Listening on port 53274
+1591558087312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591558237185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileN8GxTQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591558239987	Marionette	INFO	Listening on port 53570
+1591558240302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591558401966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilelJ72Pc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591558404622	Marionette	INFO	Listening on port 53917
+1591558405079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591558835000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileMjqkea"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591558837650	Marionette	INFO	Listening on port 54431
+1591558838114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591559341661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilelZFLmX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591559344514	Marionette	INFO	Listening on port 56622
+1591559344775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591559540384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile3yI0bx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591559543555	Marionette	INFO	Listening on port 56965
+1591559544006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591559657011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileQYsNdA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591559668220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileBkJkAU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591559670879	Marionette	INFO	Listening on port 57272
+1591559671332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591559741086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile810Ivz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591559743986	Marionette	INFO	Listening on port 57509
+1591559744200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591559886024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileo418JJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591559888586	Marionette	INFO	Listening on port 57696
+1591559888639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591560338732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofiles9e5ZI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591560341426	Marionette	INFO	Listening on port 58199
+1591560341846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591560544629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileX5xVjo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591560547345	Marionette	INFO	Listening on port 58544
+1591560547747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591560681947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileSlqFAt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591560684745	Marionette	INFO	Listening on port 58828
+1591560685060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591560859786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileC8yrsA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591560862447	Marionette	INFO	Listening on port 59139
+1591560862897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591672351016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilerMAtgE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591672353870	Marionette	INFO	Listening on port 51938
+1591672354131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591672878643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilenqduC4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591672881385	Marionette	INFO	Listening on port 52339
+1591672881758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591673629862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilexSzzCO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591673632681	Marionette	INFO	Listening on port 52977
+1591673632975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591673738746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileG1eIcv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591673742335	Marionette	INFO	Listening on port 53086
+1591673742368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591673943434	Marionette	INFO	Stopped listening on port 53086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591675742600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilenQzl03"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591675745434	Marionette	INFO	Listening on port 54886
+1591675745714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591675798504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilerMDJ8H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591675801283	Marionette	INFO	Listening on port 54932
+1591675801616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://wolfware.ncsu.edu/js/global.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://wolfware.ncsu.edu/js/jquery.inview.min.js, line 3: ReferenceError: jQuery is not defined
+JavaScript error: https://wolfware.ncsu.edu/js/jquery.easing.1.3.js, line 39: ReferenceError: jQuery is not defined
+JavaScript error: https://wolfware.ncsu.edu/js/wolfware-functions.js?1583887793, line 3: ReferenceError: $ is not defined
+JavaScript error: https://wolfware.ncsu.edu/js/bootstrap.min.js, line 6: TypeError: e is not a function
+JavaScript error: https://wolfware.ncsu.edu/, line 238: ReferenceError: $ is not defined
+JavaScript error: https://cdn.ncsu.edu/brand-assets/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://cdn.ncsu.edu/brand-assets/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591677631926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileGfDd7I"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591677637948	Marionette	INFO	Listening on port 50478
+1591677638146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591677807544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileNZ0nat"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591677810236	Marionette	INFO	Listening on port 50645
+1591677810656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591678013940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileL4UDT3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591678016527	Marionette	INFO	Listening on port 50908
+1591678016581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591678091630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilefSesMY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591678094119	Marionette	INFO	Listening on port 51092
+1591678094247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591678240342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileuPOcKz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591678243029	Marionette	INFO	Listening on port 51332
+1591678243455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591678371776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileA414zw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591678375229	Marionette	INFO	Listening on port 51563
+1591678375391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591678562128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileTF6SSj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591678565215	Marionette	INFO	Listening on port 51772
+1591678565244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591678717868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilefD5n3F"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591678720463	Marionette	INFO	Listening on port 52112
+1591678720487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591679013040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileia7247"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591679015677	Marionette	INFO	Listening on port 52507
+1591679016152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591679123848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilevj4xCz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591679126377	Marionette	INFO	Listening on port 52728
+1591679126493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591679241498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilet9S77Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591679244104	Marionette	INFO	Listening on port 52933
+1591679244127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1591679314103	Marionette	INFO	Stopped listening on port 52933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591742053900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileJUOCmp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591742057106	Marionette	INFO	Listening on port 52339
+1591742057549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592518219476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilehKFmyb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592518223240	Marionette	INFO	Listening on port 60260
+1592518223605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592519123303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileYfWiAA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592519126519	Marionette	INFO	Listening on port 60631
+1592519126918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592519218291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile5vK7OX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592519222295	Marionette	INFO	Listening on port 60872
+1592519222446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592519477342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileqNJWiL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592519480086	Marionette	INFO	Listening on port 61131
+1592519480455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592519779114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilewJ5xgm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592519781749	Marionette	INFO	Listening on port 61399
+1592519782228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592519892494	Marionette	INFO	Stopped listening on port 61399
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592519901426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilexKfoMS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592519904004	Marionette	INFO	Listening on port 61661
+1592519904041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592520121274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile6emywR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592520123914	Marionette	INFO	Listening on port 61937
+1592520124383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592520206899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilefgbnfa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592520209670	Marionette	INFO	Listening on port 62154
+1592520210028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592520311633	Marionette	INFO	Stopped listening on port 62154
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592520348673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileACcCYC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592520351975	Marionette	INFO	Listening on port 62488
+1592520352293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592520771520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileDbiEBr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592520774276	Marionette	INFO	Listening on port 62751
+1592520774637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592521000222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilescDUPV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592521003216	Marionette	INFO	Listening on port 63025
+1592521003336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592521090688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilej1Leol"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592521093593	Marionette	INFO	Listening on port 63238
+1592521093797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592521944342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilep9QqKu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592521947360	Marionette	INFO	Listening on port 63533
+1592521947456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592522028042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileemG9h9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592522031227	Marionette	INFO	Listening on port 63746
+1592522031655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592603253291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilenzuRyp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592603256143	Marionette	INFO	Listening on port 52409
+1592603256408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1592603383655	Marionette	INFO	Stopped listening on port 52409
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592603381607	Marionette	INFO	Listening on port 52655
+1592603381709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592603669855	Marionette	INFO	Stopped listening on port 52655
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592603685137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilecyeoEO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592603687875	Marionette	INFO	Listening on port 52929
+1592603688266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592603783258	Marionette	INFO	Stopped listening on port 52929
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592774189422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileeQm5Dh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592774193478	Marionette	INFO	Listening on port 55806
+1592774193554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592774359336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilevBdtFu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592774366328	Marionette	INFO	Listening on port 56157
+1592774366795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592774436249	Marionette	INFO	Stopped listening on port 56157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592774613433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileZZ9aLT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592774616457	Marionette	INFO	Listening on port 56564
+1592774616552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592774671953	Marionette	INFO	Stopped listening on port 56564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592775631933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile762bFY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592775635784	Marionette	INFO	Listening on port 57422
+1592775636060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592775691193	Marionette	INFO	Stopped listening on port 57422
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592926668782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilerT9HEo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592926675240	Marionette	INFO	Listening on port 65178
+1592926675333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592926765350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileSpWGZ9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592926775141	Marionette	INFO	Listening on port 65431
+1592926775531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592927410874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilelrOzos"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592927415252	Marionette	INFO	Listening on port 49244
+1592927415764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1592927535467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileA1kNtd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592927538942	Marionette	INFO	Listening on port 49377
+1592927539194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592927695318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileFIOvto"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592927698196	Marionette	INFO	Listening on port 49521
+1592927698436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593094550430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileMBR5Rg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593094556827	Marionette	INFO	Listening on port 56699
+1593094556849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593094717478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofileBZBfCJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593094720906	Marionette	INFO	Listening on port 56846
+1593094721103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593095835129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilebc45gQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593095838548	Marionette	INFO	Listening on port 57103
+1593095838755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593097043033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilepSHbT7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097046443	Marionette	INFO	Listening on port 57375
+1593097046653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097246632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilemrCN0W"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097251090	Marionette	INFO	Listening on port 59030
+1593097251477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097338351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilejI524x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097341693	Marionette	INFO	Listening on port 59160
+1593097341965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097516439	Marionette	INFO	Stopped listening on port 59160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593097705715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofile71k9Yf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097708558	Marionette	INFO	Listening on port 59328
+1593097708829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097798711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Prashan\\AppData\\Local\\Temp\\rust_mozprofilezPvhzW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593097801860	Marionette	INFO	Listening on port 59467
+1593097802331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api-367267e6.duosecurity.com/frame/static/shared/lib/backbone/backbone-min.js?v=28a93, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1593097849448	Marionette	INFO	Stopped listening on port 59467
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
